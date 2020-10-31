@@ -1,4 +1,2 @@
 # fashion
-A web application that displays the trending and lagging designs as well as predicts the upcoming trends after analysing the entered garment type and fashion portal.
-This includes intense data collection through web scrapping the different fashion e-commerce sites and fashion portals.
-After the data collection a text based ML model was used to get the lagging, trending products.
+A web application that displays the trending and lagging designs as well as predicts the upcoming trends by analysing data from e-commerce and fashion portals. NLP technique called Entity Extraction was used to collect trending and lagging fashion attributes. Using Google Trends, we were able to identify periodic trends and predict future trends for them.
